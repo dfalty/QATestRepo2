@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "text file",
+    "created" : 1476982055519.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4033036091",
+    "id" : "423821B8",
+    "lastKnownWriteTime" : 1476982061,
+    "last_content_update" : 1476982061704,
+    "path" : "~/QATestRepo2/text",
+    "project_path" : "text",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

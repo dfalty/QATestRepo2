@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "afasdfs",
+    "created" : 1476981992301.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "112044732",
+    "id" : "9ADAE9BB",
+    "lastKnownWriteTime" : 1476981999,
+    "last_content_update" : 1476981999582,
+    "path" : "~/QATestRepo2/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
